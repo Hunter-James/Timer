@@ -8,7 +8,7 @@ class MainWindow:
         self.window = Tk()
 
         self.window.title("Timer")
-        self.window.geometry('250x150')
+        self.window.geometry('250x170')
 
         self.frame = tk.Frame(
             padx=1,
